@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "422885118318",
+    "firebase_url": "https://socialmedianiddle.firebaseio.com",
+    "project_id": "socialmedianiddle",
+    "storage_bucket": "socialmedianiddle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422885118318:android:71a308cc8291c47a",
+        "android_client_info": {
+          "package_name": "com.example.a13811.socialmedianiddle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422885118318-uv6lp2qr5s2lfec2hq85ivn992s854fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a13811.socialmedianiddle",
+            "certificate_hash": "8d57f246da842d4a6fc6d5d9d30b0fa8798a47ca"
+          }
+        },
+        {
+          "client_id": "422885118318-f08s8p7nrn6n0duilac9l0e4uofnf0c9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "422885118318-f08s8p7nrn6n0duilac9l0e4uofnf0c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUgHGz2woDe1i2Tj980vDdyO9TyWHPQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422885118318-f08s8p7nrn6n0duilac9l0e4uofnf0c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
